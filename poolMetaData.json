@@ -2,6 +2,6 @@
 "name": "CHITA",
 "description": "chita fast like cardano network",
 "ticker": "CHITA",
-"homepage": ""
+"homepage": "" ,
 "extended": "https://github.com/chitacardano/extended-metadata.json/blob/main/extended.json"
 }
